@@ -12,8 +12,7 @@ theme:
   description: "Dewang Mistry's personal blog." # used by search engines
 
   # Header and footer text
-  header_text: >
-   Dewang Mistry's blog of Lifehacks, Engineering, Fitness and Parenting!
+  header_text: 
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
